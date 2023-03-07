@@ -3,7 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Leandro Rocha, a passionate full stack developer 👨‍💻 from Argentina</div>  
+### <div align="center">
+
+## Who am I?
+I am Leandro Rocha, a passionate full-stack developer 👨‍💻 from Argentina. I love working on projects that require a complete solution and being able to use all my skills to make it possible.</div>  
+
+## What do I do?
+I have experience in developing web applications using React, Redux, Node, Express, Sequelize, and SQL. I have also worked with Bootstrap, CSS3, HTML5, Electron, JavaScript, TypeScript, Adobe Illustrator, Chart.js, Sass, Redux, Photoshop, Figma, Webpack, and Styled Components. Currently, I am learning TypeScript and Python.
+
+## Where am I headed?
+My long-term goal is to continue learning and improving my skills to become a highly skilled full-stack developer. I would also like to work on projects that have a positive impact on society and people's lives.
   
 
 - 🌱 I’m currently learning **TypeScript, Phyton**  
