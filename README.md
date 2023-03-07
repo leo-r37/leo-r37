@@ -72,6 +72,16 @@ My long-term goal is to continue learning and improving my skills to become a hi
 
 <br/>  
 
+## Featured Projects  
+- [Mangiar-e](https://github.com/Matu36/MANGIARE)
+  SPA e-commerce full stack develop with React, Redux, Node, Express, PostgreSQL.
+  "All-in-one solution for everyday cooking"
+  
+- [DogPaw](https://github.com/leo-r37/dogs)
+  SPA full stack develop with React, Redux, Node, Express, PostgreSQL.
+
+<br/> 
+
 
 ## Connect with me  
 <div align="center">
@@ -85,6 +95,8 @@ My long-term goal is to continue learning and improving my skills to become a hi
   
 
 <br/>  
+
+ 
 
 
 ## Github Stats  
